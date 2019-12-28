@@ -22,9 +22,9 @@
 import requests as r; exec(r.get('https://raw.githubusercontent.com/ywangd/stash/master/getstash.py').text)
 ```
 
-![安装 StaSh](https://i.loli.net/2019/12/28/7d5uO3CKgDxQyFb.png)
-
 执行完成后，退出重新进入应用，会发现多了一个名为 `launch_stash.py` 的文件。运行此文件就可以调出 shell 界面，使用 pip 安装 Python 的第三方库了。
+
+![安装 StaSh](https://i.loli.net/2019/12/28/7d5uO3CKgDxQyFb.png)
 
 ## 安装第三方库
 
@@ -68,4 +68,4 @@ Pythonista 苹果商店国区售价 68 元，美区售价 9.99 美元。
 
 现在扫码购买只需 19 元，但需要使用美区账号，详情请联系客服。
 
-![感谢使用](https://i.loli.net/2019/12/28/kt9GuLWpEKbFhi4.jpg)
+![感谢使用](https://i.loli.net/2019/12/28/XKszIi5PoOCQ1hD.png)
