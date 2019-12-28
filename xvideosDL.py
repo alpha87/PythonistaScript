@@ -1,6 +1,8 @@
-# -------------------- #
-#  xvideos Downloader  #
-# -------------------- #
+# --------------------------- #
+#  FILE_NAME: "xvideosDL.py"  #
+#  VERSION: "v1.0"            #
+#  Desc: xvideos Downloader   #
+# --------------------------- #
 
 import re
 import requests
