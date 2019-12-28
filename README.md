@@ -44,4 +44,28 @@ import requests as r; exec(r.get('https://raw.githubusercontent.com/ywangd/stash
 
 # 脚本
 
+## 官方脚本
+
+Pythonista 自带了一些例子。如果你觉得还不够用，可以安装 Pythonista Tools。
+
+同样是新建一个文件，命名为 `ptinstaller.py`，将如下内容写入该文件：
+
+```python
+import requests as r; o=open('ptinstaller.py','w'); o.write(r.get('http://j.mp/pt-i').text); o.close()
+```
+
+提示执行完成后，重启软件，你会发现 `ptinstaller.py` 文件内容已经被替换，运行后会出现一个 UI 界面，有许多脚本供你选择。
+
+![ptinstaller](https://i.loli.net/2019/12/28/kt9GuLWpEKbFhi4.jpg)
+
+## 注意
+
 **仓库内脚本仅限学习交流使用。如果不听我的我也拿你没什么办法～**
+
+# 购买
+
+Pythonista 苹果商店国区售价 68 元，美区售价 9.99 美元。
+
+现在扫码购买只需 19 元，但需要使用美区账号，详情请联系客服。
+
+![感谢使用](https://i.loli.net/2019/12/28/kt9GuLWpEKbFhi4.jpg)
