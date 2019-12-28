@@ -9,7 +9,7 @@ import requests
 from tqdm import tqdm
 
 
-print("\033[1;31m警告：未成年人请在成人陪同下使用!\033[0m")
+print("警告：未成年人请在成人陪同下使用!")
 url = input("请输入 xvideos 视频链接：")
 headers = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36"}
 print("正在请求资源...")
