@@ -61,11 +61,3 @@ import requests as r; o=open('ptinstaller.py','w'); o.write(r.get('http://j.mp/p
 ## 注意
 
 **仓库内脚本仅限学习交流使用。如果不听我的我也拿你没什么办法～**
-
-# 购买
-
-Pythonista 苹果商店国区售价 68 元，美区售价 9.99 美元。
-
-现在扫码购买只需 19 元，但需要使用美区账号，详情请联系客服。
-
-![感谢使用](https://i.loli.net/2019/12/28/XKszIi5PoOCQ1hD.png)
